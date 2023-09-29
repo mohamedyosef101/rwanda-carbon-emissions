@@ -1,27 +1,43 @@
 # Rwanda Carbon Emissions Prediction
 Machine Learning model using open-source CO2 emissions data (from Sentinel-5P satellite observations) to predict carbon emissions.
 
-## **About the problem**
+![carbon](https://github.com/mohamedyosef101/rwanda-carbon-emissions/assets/118842452/e3f34c2d-b358-44a5-b11f-799ec6d1160a)
+
+
+### **About the problem**
 The ability to accurately monitor carbon emissions is a critical step in the fight against climate change. Precise carbon readings allow researchers and governments to understand the sources and patterns of carbon mass output. While Europe and North America have extensive systems in place to monitor carbon emissions on the ground, there are few available in Africa.
 
-## **Dataset**
+### **Usage**
+These solutions will enable governments and other actors to estimate carbon emission levels across Africa, even in places where on-the-ground monitoring is not possible.
+
+### **Dataset**
 Darius Moruri, Amy Bray, Walter Reade, Ashley Chow. (2023). [Predict CO2 Emissions in Rwanda](https://kaggle.com/competitions/playground-series-s3e20). Kaggle. 
 
-## **Methods** SOON
+### **GitHub repo**
+Mohamed Yosef. (Sep 2023). [Rwanda Carbon Emissions](https://github.com/mohamedyosef101/rwanda-carbon-emissions). GitHub.
+
+<hr>
+<div><br></div>
+
+# **Requirements**
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+
+<div><br></div>
+
+# **Methods** SOON
 
 High level description of the techniques and models used.
 
-## **Results** SOON
+<div><br></div>
+
+# **Results** SOON
 
 Summary of the key findings and results.
 
-## **Usage**
-These solutions will enable governments and other actors to estimate carbon emission levels across Africa, even in places where on-the-ground monitoring is not possible.
-
-## **Requirements**
-- pandas
-- numpy
-- scikit-learn
+<div><br></div>
 
 
 ## **Acknowledgements**

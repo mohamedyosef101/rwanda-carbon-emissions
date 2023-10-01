@@ -7,13 +7,9 @@ The ability to accurately monitor carbon emissions is a critical step in the fig
 ## **Dataset**
 Darius Moruri, Amy Bray, Walter Reade, Ashley Chow. (2023). [Predict CO2 Emissions in Rwanda](https://kaggle.com/competitions/playground-series-s3e20). Kaggle. 
 
-## **Methods** SOON
+## **Methods**
+Random Forest Rogressor with `random_state = SEED` and `n_jobs = -1`.
 
-High level description of the techniques and models used.
-
-## **Results** SOON
-
-Summary of the key findings and results.
 
 ## **Usage**
 These solutions will enable governments and other actors to estimate carbon emission levels across Africa, even in places where on-the-ground monitoring is not possible.
@@ -25,7 +21,7 @@ These solutions will enable governments and other actors to estimate carbon emis
 
 
 ## **Acknowledgements**
-(1) Special thanks Darius Moruri from [Zindi](https://zindi.africa/) for his work in preparing the dataset and [starter notebooks](https://www.kaggle.com/code/inversion/getting-started-eda).
+(1) Special thanks Darius Moruri from [Zindi](https://zindi.africa/) for his work in preparing the dataset and starter notebooks; [EDA](https://www.kaggle.com/code/inversion/getting-started-eda) and [Modeling](https://www.kaggle.com/code/inversion/getting-started-modeling)
 
 <hr>
 

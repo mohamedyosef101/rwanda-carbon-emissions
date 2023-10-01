@@ -24,6 +24,23 @@ Mohamed Yosef. (Sep 2023). [Rwanda Carbon Emissions](https://github.com/mohamedy
 - matplotlib
 - seaborn
 - scikit-learn
+<<<<<<< HEAD
+=======
+
+<div><br></div>
+
+# **Methods** SOON
+
+High level description of the techniques and models used.
+
+<div><br></div>
+
+# **Results** SOON
+
+Summary of the key findings and results.
+
+<div><br></div>
+>>>>>>> b64dbab35ad8971afd51a66ef99ddedae1a89a4b
 
 <div><br></div>
 
